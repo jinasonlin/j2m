@@ -1,0 +1,16 @@
+{
+  "name": "magic-json-schema-helper",
+  "version": "0.0.1",
+  "description": "json validate",
+  "main": "ubdex.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "dependencies": {
+    "ajv": "^6.12.4"
+  },
+  "files": [
+    "index.js",
+    "lib"
+  ]
+}
